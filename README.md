@@ -1,4 +1,4 @@
-Attribute-Value Prediction from E-Commerce Product Descriptions
+Attribute-Value Prediction from E-Commerce Product Descriptions: 
 This project involves building a machine learning model to predict attribute-value pairs (e.g., color, size, brand) from unstructured product descriptions using NLP techniques.
 
 Key Features:
